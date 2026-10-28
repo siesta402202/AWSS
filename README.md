@@ -1,3 +1,4 @@
+<img width="1919" height="1071" alt="螢幕擷取畫面 2026-10-28 140337" src="https://github.com/user-attachments/assets/64f4ac3e-86a8-4851-bc94-becfb672ef3d" />
 # AWSS
 <img width="1918" height="1017" alt="螢幕擷取畫面 2026-09-30 153447" src="https://github.com/user-attachments/assets/ca7ec842-5f23-4e73-b044-5a32226df227" />
 <img width="1917" height="1078" alt="螢幕擷取畫面 2026-10-07 165032" src="https://github.com/user-attachments/assets/07ad4305-2c4a-499e-aff8-05c5f72168e8" />
